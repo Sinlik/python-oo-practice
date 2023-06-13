@@ -1,0 +1,32 @@
+
+
+
+Chewy
+
+Stock Purchase
+
+$250.00
+
+Jun 13 at 9:55 AM
+
+
+
+Completed
+
+You’ll see your trade confirmation in the app in one business day. For family accounts, trade confirmations will only be visible in the sponsor’s account.
+
+
+
+
+Amount
+$250
+Order Type
+MARKET
+Stock Price
+$39.15
+Shares
+6.38594071
+Fees
+$0
+Identifier
+5g7s7rt
